@@ -140,13 +140,14 @@ It likely includes tables for users, admins, books, borrowed records, and reques
 
 ## Team & Supervision
 
-### Project Mates (Contributors)
-- Hasnat Karibul Islam
-- Karma Sonam Rabgay
-- Raqibul Hasan
-- Anisha Ashfiya Alamgir
+### Contributors
+
+| Name                     | Student ID  |
+|--------------------------|-------------|
+| Hasnat Karibul Islam     | 2211275042  |
+| Karma Sonam Rabgay       | 2233716042  |
+| Raqibul Hasan            | 2022473642  |
+| Anisha Ashfiya Alamgir   | 2211044642  |
 
 ### Faculty Supervisor
 - Dr. Mohammad Musfique Anwar
-
----
