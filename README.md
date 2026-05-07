@@ -6,7 +6,7 @@ It provides features for both **users** and **admins** to manage books, borrowin
 
 The project is organized into separate frontend and backend layers:
 - **FrontEnd/** for UI pages and forms
-- **BackEnd/** for server-side processing and database operations
+- **BackEnd/** for server-side processing and database operations 
 - **database/** for SQL schema setup
 
 ---
